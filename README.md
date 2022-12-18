@@ -41,6 +41,47 @@ Here is an ASCII art illustration of anger:
               \  /                                        \ /                       \
                \/                                          V                         \
 ```
+> Write ASCII art that illustrates laziness
+
+Here's a simple ASCII art illustration of laziness:
+```
+     __
+    /  \
+   /    \
+  /      \
+ /        \
+/__________\
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+
+```
+This ASCII art depicts a person lying down, with their arms and legs stretched out, representing laziness and a lack of energy or motivation.
 
 > Write a Java program that contradicts itself
 
